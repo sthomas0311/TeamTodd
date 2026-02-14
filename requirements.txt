@@ -2,7 +2,7 @@ fastapi==0.110.0
 uvicorn==0.28.0
 python-dotenv==1.0.1
 pydantic-settings==2.2.1
-asynclog==1.0.0
+asynclog
 asyncpg==0.29.0
 boto3==1.34.62
 botocore==1.34.62
